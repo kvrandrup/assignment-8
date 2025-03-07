@@ -1,0 +1,32 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Kristina Randrup <br>krandrup@uw.edu"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+- born in Berkeley, CA
+- favorite food: I've been a big fan of donuts recently but I'll eat anything vegan!
+- favorite animal: it's a tie between grizzly bears and mountain goats!
+
+## About me | Academic
+- University of Washington
+- Major: Environmental Science and Resrouce Management (Wildlife Conservation focus)
+- Minor: Math, Quantitative Science
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+1. communicating between GitHub and RStudio
+2. a better grip on Markdown
+3. markdown presentations! complete mystery to me prior to this course
+
+## {data-background=MHP_Ingalls_Run_1525.jpg data-background-size=cover}
